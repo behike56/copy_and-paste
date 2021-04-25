@@ -1,0 +1,8 @@
+class StringCutter{
+    /**
+     *
+     */
+    public String pointSlicer(String ){
+
+    }
+}
